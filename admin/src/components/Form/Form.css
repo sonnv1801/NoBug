@@ -1,0 +1,15 @@
+#Form {
+    width: 80%;
+    height: 500px;
+    background-color: #ccc;
+    position: absolute;
+    left: 185px;
+    margin-top: 37px;
+    border-radius: 20px;
+    box-shadow: 1px -1px 15px -1px rgb(37 31 31)
+}
+
+.alert-message {
+    width: 100%;
+    margin-top: 20px;
+}

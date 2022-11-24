@@ -1,0 +1,15 @@
+#card {
+   padding: 10px 30px;
+}
+.card {
+    border-radius: 13px;
+}
+
+.card-title {
+    display: block;
+}
+
+#icon-card {
+    font-size: 30px;
+    color: green;
+}
